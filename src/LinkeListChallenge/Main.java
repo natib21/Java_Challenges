@@ -77,7 +77,6 @@ public class Main {
                                 iterator.previous();
                             }
                         }
-
                         if(iterator.hasPrevious()){
                             System.out.println(iterator.previous());
                         }
